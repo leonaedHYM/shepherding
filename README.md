@@ -8,7 +8,8 @@ Operate the model:
     * -t -r trains the model from scratch
 
 ## Tips:
-1. ./Envs folder includes two multi-shepherd environments totally.  The multi_agent_Env2.py is built up based on the Strombom Model. The multi_agent_environment.py is built up based on the Reynold Dynamics. Each environment can be used by the model. 
+1. ./Envs folder includes two multi-shepherd environments totally.  The multi_agent_Env2.py is built up based on the Strombom Model and velocity matching mechanism was added. 
+The multi_agent_environment.py is built up based on the Reynold Dynamics. Each environment can be used by the model. 
 
 2. Model structure details are defined in the model.py. 
 
