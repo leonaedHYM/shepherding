@@ -1,3 +1,4 @@
+This is a centralized multi-agent deep Q-network built on PyTorch.
 
 ## Usage
 Operate the model:
